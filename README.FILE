@@ -1,0 +1,20 @@
+#prodigy-task-05
+
+Weather App with OpenWeatherMap API
+This is a simple weather application that allows users to search for the weather conditions in a specific city. It utilizes the OpenWeatherMap API to retrieve weather data.
+
+Features:
+
+User can enter a city name in the search bar.
+
+Upon submission, the app fetches weather data from the OpenWeatherMap API using the city name and API key (replace 5597863733bd67b645dec32cbedb464d with your own).
+
+Displays the current temperature, weather description, and weather icon.
+
+Displays additional details like feels like, humidity, and wind speed.
+
+Technologies Used:
+
+HTML: Provides the structure of the web page.
+CSS: Styles the layout and appearance of the app.
+JavaScript: Handles user interaction, fetches data from the API, and updates the UI.
